@@ -1,0 +1,169 @@
+﻿  stdafx.cpp
+  AssemblyConfigurator.cpp
+  AssemblyConfiguratorDoc.cpp
+  AssemblyConfiguratorView.cpp
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(165): error C3861: UpdateForm: идентификатор не найден
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(256): warning C4477: "sprintf_s": в строке форматирования "%S" требуется аргумент типа "wchar_t *", но вариативный аргумент "1" имеет тип "CString"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(562): warning C4477: "sprintf_s": в строке форматирования "%S" требуется аргумент типа "wchar_t *", но вариативный аргумент "1" имеет тип "CString"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(860): warning C4477: "sprintf_s": в строке форматирования "%S" требуется аргумент типа "wchar_t *", но вариативный аргумент "1" имеет тип "CString"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1088): warning C4477: "sprintf_s": в строке форматирования "%S" требуется аргумент типа "wchar_t *", но вариативный аргумент "1" имеет тип "CString"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1454): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1317): warning C4477: "sprintf_s": в строке форматирования "%S" требуется аргумент типа "wchar_t *", но вариативный аргумент "1" имеет тип "CString"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1840): error C2039: UpdateForm: не является членом "CAssemblyConfiguratorView"
+  c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.h(9): note:  см. объявление "CAssemblyConfiguratorView"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1847): error C2065: m_picture: необъявленный идентификатор
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1847): error C2228: выражение слева от ".SetBitmap" должно представлять класс, структуру или объединение
+  c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1847): note: тип: unknown-type
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1849): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1849): error C2227: выражение слева от "->ShowWindow" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1850): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1850): error C2227: выражение слева от "->ShowWindow" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1851): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1851): error C2227: выражение слева от "->ShowWindow" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1852): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1852): error C2227: выражение слева от "->SetWindowTextW" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1853): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1853): error C2227: выражение слева от "->MoveWindow" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1855): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1855): error C2227: выражение слева от "->MoveWindow" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1860): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1860): error C2227: выражение слева от "->ShowWindow" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1861): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1861): error C2227: выражение слева от "->ShowWindow" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1862): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1862): error C2227: выражение слева от "->ShowWindow" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1865): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1865): error C2227: выражение слева от "->ShowWindow" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1866): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1866): error C2227: выражение слева от "->ShowWindow" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1867): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1867): error C2227: выражение слева от "->ShowWindow" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1868): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1868): error C2227: выражение слева от "->ShowWindow" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1869): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1869): error C2227: выражение слева от "->ShowWindow" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1870): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1870): error C2227: выражение слева от "->ShowWindow" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1871): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1871): error C2227: выражение слева от "->ShowWindow" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1872): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1872): error C2227: выражение слева от "->ShowWindow" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1873): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1873): error C2227: выражение слева от "->ShowWindow" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1874): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1874): error C2227: выражение слева от "->ShowWindow" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1876): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1876): error C2227: выражение слева от "->ShowWindow" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1878): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1878): error C2227: выражение слева от "->ShowWindow" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1879): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1879): error C2227: выражение слева от "->ShowWindow" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1880): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1880): error C2227: выражение слева от "->ShowWindow" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1881): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1881): error C2227: выражение слева от "->ShowWindow" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1882): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1882): error C2227: выражение слева от "->ShowWindow" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1883): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1883): error C2227: выражение слева от "->ShowWindow" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1884): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1884): error C2227: выражение слева от "->ShowWindow" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1885): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1885): error C2227: выражение слева от "->ShowWindow" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1886): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1886): error C2227: выражение слева от "->ShowWindow" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1887): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1887): error C2227: выражение слева от "->ShowWindow" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1889): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1889): error C2227: выражение слева от "->SetWindowTextW" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1895): error C2065: m_tabs: необъявленный идентификатор
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1895): error C2228: выражение слева от ".SetCurSel" должно представлять класс, структуру или объединение
+  c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1895): note: тип: unknown-type
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1902): error C2352: CAssemblyConfiguratorView::Save: недопустимый вызов нестатической функции-члена
+  c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.h(89): note:  см. объявление "CAssemblyConfiguratorView::Save"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1906): error C2065: m_picture: необъявленный идентификатор
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1906): error C2228: выражение слева от ".SetBitmap" должно представлять класс, структуру или объединение
+  c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1906): note: тип: unknown-type
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1909): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1909): error C2227: выражение слева от "->MoveWindow" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1911): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1911): error C2227: выражение слева от "->MoveWindow" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1913): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1913): error C2227: выражение слева от "->MoveWindow" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1914): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1914): error C2227: выражение слева от "->MoveWindow" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1916): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1916): error C2227: выражение слева от "->SetWindowTextW" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1917): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1917): error C2227: выражение слева от "->SetWindowTextW" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1918): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1918): error C2227: выражение слева от "->SetWindowTextW" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1920): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1920): error C2227: выражение слева от "->SetWindowTextW" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1921): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1921): error C2227: выражение слева от "->SetWindowTextW" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1922): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1922): error C2227: выражение слева от "->SetWindowTextW" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1925): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1925): error C2227: выражение слева от "->ShowWindow" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1926): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1926): error C2227: выражение слева от "->ShowWindow" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1927): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1927): error C2227: выражение слева от "->ShowWindow" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1928): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1928): error C2227: выражение слева от "->ShowWindow" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1929): error C2660: GetDlgItem: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(5000): note:  см. объявление "GetDlgItem"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1929): error C2227: выражение слева от "->ShowWindow" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1929): fatal error C1003: число ошибок превышает 100; остановка компиляции
+  CAssemblyConfiguratorTreeView.cpp
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\cassemblyconfiguratortreeview.cpp(136): error C2039: UpdateForm: не является членом "CAssemblyConfiguratorView"
+  c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.h(9): note:  см. объявление "CAssemblyConfiguratorView"
+  DLGStartAssembly.cpp
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\dlgstartassembly.cpp(1247): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  MainFrm.cpp

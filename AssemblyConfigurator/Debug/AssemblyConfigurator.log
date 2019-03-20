@@ -1,0 +1,9 @@
+﻿  AssemblyConfiguratorView.cpp
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(256): warning C4477: "sprintf_s": в строке форматирования "%S" требуется аргумент типа "wchar_t *", но вариативный аргумент "1" имеет тип "CString"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(562): warning C4477: "sprintf_s": в строке форматирования "%S" требуется аргумент типа "wchar_t *", но вариативный аргумент "1" имеет тип "CString"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(860): warning C4477: "sprintf_s": в строке форматирования "%S" требуется аргумент типа "wchar_t *", но вариативный аргумент "1" имеет тип "CString"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1088): warning C4477: "sprintf_s": в строке форматирования "%S" требуется аргумент типа "wchar_t *", но вариативный аргумент "1" имеет тип "CString"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1454): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(1317): warning C4477: "sprintf_s": в строке форматирования "%S" требуется аргумент типа "wchar_t *", но вариативный аргумент "1" имеет тип "CString"
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(2862): warning C4477: "sprintf_s": в строке форматирования "%S" требуется аргумент типа "wchar_t *", но вариативный аргумент "1" имеет тип "CString"
+  AssemblyConfigurator.vcxproj -> C:\Users\Dmitry\source\repos\AssemblyConfigurator\Debug\AssemblyConfigurator.exe

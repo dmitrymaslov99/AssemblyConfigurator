@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  AssemblyConfigurator.cpp
+  AssemblyConfiguratorDoc.cpp
+  AssemblyConfiguratorView.cpp
+c:\users\dmitry\source\repos\assemblyconfigurator\assemblyconfigurator\assemblyconfigurator\assemblyconfiguratorview.cpp(22): fatal error C1083: Не удается открыть файл библиотека типов: C:\Users\Dmitry\source\repos\AssemblyConfigurator\RxInventor.tlb: No such file or directory,
+  CAssemblyConfiguratorTreeView.cpp
+  MainFrm.cpp
+  Создание кода...
